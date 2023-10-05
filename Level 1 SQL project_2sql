@@ -1,6 +1,6 @@
 --EMPLOYEE DATABASE: 
---Table_1                                                               Table_2                             Table_3
 /*
+--Table_1                                                               Table_2                             Table_3
 EMPNO  ENAME   JOB      MGR     HIREDATE  SAL   COMM    DEPNO            DEPTNO   DNAME      LOC             GRADE LOSAL HISAL       
 7369	 SMYTH	CLERK	   7902	17-DEC-80	800   null    20                 10	    ACCOUNTING	NEW YORK        1	    700	   1200
 7499	 ALLEN	SALESNLA	7698	20-FEB-81	1600	300	  30                 20  	 RESEARCH	DALLAS          2	    1201	   1400
