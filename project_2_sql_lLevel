@@ -3,8 +3,8 @@
 --Table_1                                                                        Table_2                             Table_3
 EMPNO  ENAME   JOB          MGR     HIREDATE    SAL     COMM    DEPNO            DEPTNO     DNAME      LOC             GRADE    LOSAL   HISAL       
 7369	 SMYTH	CLERK       7902	17-DEC-80	800     null    20                 10       ACCOUNTING	NEW YORK        1	    700	    1200
-7499	 ALLEN	SALESNLA	7698	20-FEB-81	1600	300	    30                 20  	    RESEARCH	DALLAS          2	    1201    1400
-7521	 WARD   SALESNLA	7698	22-FEB-81	1250	null    30                 30	    SALES	    CHICAGO         3	    1401    2000
+7499	 ALLEN	SALESNLA	7698	20-FEB-81	1600	300     30                 20  	    RESEARCH	DALLAS          2	    1201    1400
+7521	 WARD   SALESNLA	7698	22-FEB-81	1250	null    30                 30	    SALES       CHICAGO         3	    1401    2000
 7566	 JONES	NANAGER	    7839	02-APR-81	2975	null    20                 40	    OPERATIONS	BOSTON          4	    2001    3000
 7654	 NARTIN	SALESNMAN   7698	28-SEP-81	1250	1400    30                                                      5	    3001    9999
 7698	 BLAKE	NANAGER	    7839	01-MAY-81	2850	null    30
